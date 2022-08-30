@@ -1,8 +1,4 @@
-# Puny SQL Editor
-
-A SQL Editor worthy of its name, it's puny.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c807a36f-535d-41db-b1b3-36d67a070b66/deploy-status)](https://app.netlify.com/sites/puny-sql-editor/deploys)
+# SQL Editor
 
 ```
   NOTE: This project was made as a frontend interview task
